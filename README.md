@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/black-domon">Faryel Dwi Kusuma </a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/FaryelDK">Faryel Dwi Kusuma </a></h1>
 <h3 align="center">A passionate web developer from Banyuputih, Situbondo, Indonesia</h3>
 <img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
 
@@ -31,19 +31,19 @@
 &nbsp;
 
 ## Languages and Tools
-<p align="center"> <a href="https://github.com/black-domon"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,bots,nodejs,laravel,django,bootstrap"></a></p>
-<p align="center"> <a href="https://github.com/black-domon"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,replit"></a></p>
+<p align="center"> <a href="https://github.com/FaryelDK"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,bots,nodejs,laravel,django,bootstrap"></a></p>
+<p align="center"> <a href="https://github.com/FaryelDK"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,replit"></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bLack-Domon&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="bLack-Domon"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FaryelDK&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="bLack-Domon"/></p>
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=black-domon&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=FaryelDK&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 ## Activity On GitHub
 <p align="center">
-  <a href="https://github.com/black-domon">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=black-domon&theme=dark&hide_border=true&stroke=f53b3b"/>
+  <a href="https://github.com/FaryelDK">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FaryelDK&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
