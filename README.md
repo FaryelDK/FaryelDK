@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/FaryelDK">Faryel Dwi Kusuma </a></h1>
 <h3 align="center">A passionate web developer from Banyuputih, Situbondo, Indonesia</h3>
-<img align="right" width="400" src="https://fajri.smkn3kotabekasi.sch.id/editorial/instalasi-komputer/">
+<img align="right" width="400" src="[https://fajri.smkn3kotabekasi.sch.id/editorial/instalasi-komputer/](https://bunny-wp-pullzone-nmp9vwwnh2.b-cdn.net/wp-content/uploads/2019/01/Screen-Shot-2019-01-29-at-19.15.20.png)">
 
 - 🔭 I’m currently working on **PP Nurul Jadid**
 
