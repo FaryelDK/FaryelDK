@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="margin-bottom: 50px">
-<a href="https://fb.com/ja'far ilham" target="blank">
+<a href="https://www.facebook.com/?locale=id_ID" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ja'far ilham" height="30" width="40" />
 </a>
-<a href="https://instagram.com/black_domon" target="blank">
+<a href="https://www.instagram.com/f4uraa._" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_domon" height="30" width="40" />
 </a>
 <a href="https://wa.me/+6282229062398" target="blank">
